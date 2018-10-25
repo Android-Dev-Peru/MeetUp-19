@@ -10,12 +10,12 @@ Slide : http://bit.ly/2PjTxBM
 Repo  : https://github.com/carlosgub/MLKit-Face-Example
 
 
-- **"Android y el Voto Electrónico en el Perú" - Giancarlo Chiappe
+- **"Android y el Voto Electrónico en el Perú" - Giancarlo Chiappe**
 
 Slide : http://bit.ly/2Jf6GXa
 
 
-- **"HERE Tracking: Developer platform" - Anthony Machuca*
+- **"HERE Tracking: Developer platform" - Anthony Machuca**
 
 Slide : http://bit.ly/2PT7jIw
 
